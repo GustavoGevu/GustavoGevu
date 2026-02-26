@@ -1,19 +1,19 @@
 ## Olá, Eu sou o Gustavo Gevú. 👋
 
-- 🔭 Atualmente estou trabalhando em projetos de faculdade
-- 🌱 Atualmente estou aprendendo Python, html e css na faculdade de sistemas de informação da UFRRJ.
-- 😄 Pronomes: ele/dele
+- 🔭 Atualmente estou trabalhando em projetos de faculdade.
+- 🌱 Atualmente estou aprendendo Python, HTML e CSS na faculdade de Sistemas de Informação da UFRRJ.
+- 😄 Pronomes: ele/dele.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoGevu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGevu&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
-<div>
-  <a href ="https://github.com/GustavoGevu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoGevu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGevu&layout=compact&langs_count=6&theme=tokyonight">
-</div><br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
 </div>
