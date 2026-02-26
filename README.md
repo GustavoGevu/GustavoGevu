@@ -21,6 +21,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/GustavoGevu/GustavoGevu/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoGevu&theme=dark&background=000000&fire=ff0000&ring=007bff&currStreakLabel=007bff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 <br>
