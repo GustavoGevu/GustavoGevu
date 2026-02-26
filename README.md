@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Gustavo Gevú. 👋
 
 - 🔭 Atualmente estou trabalhando em projetos de faculdade
-- 🌱 Atualmente estou aprendendo C, html e css na faculdade de sistemas de informação.
+- 🌱 Atualmente estou aprendendo Python, html e css na faculdade de sistemas de informação da UFRRJ.
 - 😄 Pronomes: ele/dele
 
 <div>
