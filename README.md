@@ -4,6 +4,10 @@
 - 🌱 Atualmente estou aprendendo Python, html e css na faculdade de sistemas de informação da UFRRJ.
 - 😄 Pronomes: ele/dele
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical)](https://git.io/streak-stats)
+
 <div>
   <a href ="https://github.com/GustavoGevu">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoGevu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
