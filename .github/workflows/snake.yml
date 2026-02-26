@@ -8,6 +8,10 @@ on:
     branches:
     - main
 
+# ADICIONEI ESTA PARTE ABAIXO PARA DAR PERMISSÃO
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
