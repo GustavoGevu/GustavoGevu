@@ -33,7 +33,7 @@ Me chamo Gustavo Gevú, estou me graduando em **Sistemas de Informação** pela 
 ### 📊 Estatísticas
 <div align="center">
   <img height="180em" src="https://github-readme-stats-pink-two-76.vercel.app/api?username=GustavoGevu&show_icons=true&bg_color=000000&title_color=007bff&text_color=ffffff&icon_color=ff0000&border_color=4b0082&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-pink-two-76.vercel.app/api/top-langs/?username=GustavoGevu&layout=compact&langs_count=7&bg_color=000000&title_color=007bff&text_color=ffffff&icon_color=ff0000&border_color=4b0082" />
+  <img height="180em" src="https://github-readme-stats-pink-two-76.vercel.app/api/top-langs/?username=GustavoGevu&layout=compact&langs_count=7&bg_color=000000&title_color=007bff&text_color=ffffff&icon_color=ff0000&border_color=4b0082&cache_seconds=1800" />
 </div>
 
 <br>
